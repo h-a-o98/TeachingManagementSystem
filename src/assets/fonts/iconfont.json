@@ -1,0 +1,37 @@
+{
+  "id": "4284423",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4307787",
+      "name": "作业批改",
+      "font_class": "zuoyepigai",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "4662778",
+      "name": "作业",
+      "font_class": "zuoye",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "20406867",
+      "name": "项目_项目管理",
+      "font_class": "xiangmu_xiangmuguanli",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "34297978",
+      "name": "事项",
+      "font_class": "shixiang",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    }
+  ]
+}
